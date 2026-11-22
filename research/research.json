@@ -1,0 +1,305 @@
+{
+  "brand": "Nooryz by Noor",
+  "handle": "nooryzbynoor",
+  "instagram": "https://www.instagram.com/nooryzbynoor/",
+  "contactMode": "whatsapp",
+  "phone": "9613568456",
+  "displayPhone": "+961 3 568 456",
+  "publicPhoneObserved": "9613568456",
+  "hours": "Confirm current visiting hours with the boutique",
+  "followersObserved": null,
+  "followersDisplay": "17.2K",
+  "latestVisiblePost": "2026-11-20",
+  "researchDate": "2026-11-22",
+  "profileBio": "Clothing & Accessories\nDM or Whatsapp 03 568 456\nDelivery All Over Lebanon\nSamaya Kaslik",
+  "bioLinks": [
+    "https://linktr.ee/nooryzbynoor",
+    "https://wa.me/9613568456"
+  ],
+  "branches": [
+    {
+      "name": "Samaya, Kaslik, Lebanon",
+      "mapUrl": ""
+    }
+  ],
+  "about": "From Samaya in Kaslik, Nooryz shares an expressive collection of shirts, coordinated looks, dresses and statement layers. Explore the photographed edit, save your favourites and ask about the pieces you love on WhatsApp.",
+  "heroImage": "C:/Projects/prospect-research/nov22-ten/nooryz-by-noor/assets/07.jpg",
+  "storyImage": "C:/Projects/prospect-research/nov22-ten/nooryz-by-noor/assets/02.jpg",
+  "galleryImages": [
+    "C:/Projects/prospect-research/nov22-ten/nooryz-by-noor/assets/07.jpg",
+    "C:/Projects/prospect-research/nov22-ten/nooryz-by-noor/assets/02.jpg",
+    "C:/Projects/prospect-research/nov22-ten/nooryz-by-noor/assets/03.jpg",
+    "C:/Projects/prospect-research/nov22-ten/nooryz-by-noor/assets/04.jpg",
+    "C:/Projects/prospect-research/nov22-ten/nooryz-by-noor/assets/05.jpg",
+    "C:/Projects/prospect-research/nov22-ten/nooryz-by-noor/assets/06.jpg",
+    "C:/Projects/prospect-research/nov22-ten/nooryz-by-noor/assets/08.jpg",
+    "C:/Projects/prospect-research/nov22-ten/nooryz-by-noor/assets/09.jpg"
+  ],
+  "products": [
+    {
+      "id": "berry-button-shirt",
+      "name": "Berry Button Shirt",
+      "category": "Shirts",
+      "description": "A vivid berry long-sleeved collared shirt styled with wide-leg denim. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov22-ten/nooryz-by-noor/assets/07.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/nooryzbynoor/reel/Df9H5cAB73y/",
+      "sourcePosts": [
+        "https://www.instagram.com/nooryzbynoor/reel/Df9H5cAB73y/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "burgundy-layered-look",
+      "name": "Burgundy Layered Look",
+      "category": "Outer layers",
+      "description": "A burgundy collared outer layer styled with checked bottoms in the boutique mirror. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov22-ten/nooryz-by-noor/assets/02.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/nooryzbynoor/reel/Df9qqvpIYOm/",
+      "sourcePosts": [
+        "https://www.instagram.com/nooryzbynoor/reel/Df9qqvpIYOm/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "charcoal-check-look",
+      "name": "Charcoal Check Look",
+      "category": "Coordinated looks",
+      "description": "A dark checked button-front look with a defined waist and short skirt silhouette. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov22-ten/nooryz-by-noor/assets/03.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/nooryzbynoor/reel/Df9hEI2IOz8/",
+      "sourcePosts": [
+        "https://www.instagram.com/nooryzbynoor/reel/Df9hEI2IOz8/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "white-draped-blouse",
+      "name": "White Draped Blouse",
+      "category": "Shirts",
+      "description": "A white long-sleeved blouse with a relaxed draped neckline and flowing silhouette. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov22-ten/nooryz-by-noor/assets/04.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/nooryzbynoor/reel/Df9hBOLBnWN/",
+      "sourcePosts": [
+        "https://www.instagram.com/nooryzbynoor/reel/Df9hBOLBnWN/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "black-evening-look",
+      "name": "Black Evening Look",
+      "category": "Coordinated looks",
+      "description": "A black V-neck top styled with a short, lightly flared skirt and boots. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov22-ten/nooryz-by-noor/assets/05.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/nooryzbynoor/reel/Df9aKlABeTY/",
+      "sourcePosts": [
+        "https://www.instagram.com/nooryzbynoor/reel/Df9aKlABeTY/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "plum-pleated-mini",
+      "name": "Plum Pleated Mini",
+      "category": "Dresses",
+      "description": "A plum short dress with long sleeves, a fitted waist and pleated skirt. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov22-ten/nooryz-by-noor/assets/06.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/nooryzbynoor/reel/Df9NCNOh3-R/",
+      "sourcePosts": [
+        "https://www.instagram.com/nooryzbynoor/reel/Df9NCNOh3-R/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "beige-short-layer",
+      "name": "Beige Short Layer",
+      "category": "Outer layers",
+      "description": "A light beige short button-front layer photographed in the boutique mirror. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov22-ten/nooryz-by-noor/assets/08.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/nooryzbynoor/reel/Df6wwK_onJQ/",
+      "sourcePosts": [
+        "https://www.instagram.com/nooryzbynoor/reel/Df6wwK_onJQ/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "cream-textured-vest",
+      "name": "Cream Textured Vest",
+      "category": "Outer layers",
+      "description": "A long cream sleeveless layer with a fluffy textured surface, styled over denim. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov22-ten/nooryz-by-noor/assets/09.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/nooryzbynoor/reel/Df5IHVpoKon/",
+      "sourcePosts": [
+        "https://www.instagram.com/nooryzbynoor/reel/Df5IHVpoKon/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    }
+  ],
+  "activityEvidence": "Owning agent observed the current public Instagram profile and dated grid on 2026-11-22. Latest exported native image is dated November 20, 2026. See export.json for the observed profile text and all source post URLs.",
+  "websiteCheck": {
+    "result": "No matching official website or commerce shop found in the bounded searches and inspected current public Instagram/Linktree links. This is a dated research finding, not a guarantee that none exists.",
+    "queries": [
+      "\"nooryzbynoor\" website",
+      "\"nooryzbynoor\" -site:linktr.ee",
+      "\"Nooryz by Noor\" Lebanon clothing",
+      "\"Nooryz\" Lebanon clothing",
+      "\"03568456\" boutique"
+    ],
+    "checkedDate": "2026-11-22",
+    "sources": [
+      "https://www.instagram.com/nooryzbynoor/",
+      "https://linktr.ee/nooryzbynoor"
+    ]
+  },
+  "imageProvenance": [
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\nooryz-by-noor\\assets\\01.jpg",
+      "sourcePost": "https://www.instagram.com/nooryzbynoor/reel/Df9qm0UIRaq/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/918182576_18060802337802861_7012402812769817661_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=TtA0-d3NvFUQ7kNvwHa69tR&_nc_oc=Adpuf73ti93ohcySAYN-dNvQLTbkxtygUeCj4jBJ01YCfSvAoD9KntLeIkDIMVV193s&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=m9UhKZjOVE-XVCTZVMkcPg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQRXIANWAo2fZ2UbcfBc4DlweU9bfuWiaaZQPNKfA5GssA&oe=6B08BEE0",
+      "alt": "Video by Nooryz on November 20, 2026. May be a selfie of mirror, top and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "1beb9bb26f8a1b95ddfc54c8c011c68a6f3970a6d4ec88ff0620b6990775985d",
+      "collectedDate": "2026-11-22",
+      "method": "Owning agent exported observed public Instagram rendered image through supported CUA pageAssets. Native photo or Reel cover JPEG, not an extracted video frame.",
+      "selectedForWebsite": false
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\nooryz-by-noor\\assets\\02.jpg",
+      "sourcePost": "https://www.instagram.com/nooryzbynoor/reel/Df9qqvpIYOm/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/920013108_18060800834802861_8465042800220102871_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=QoRUmRiH9X8Q7kNvwFdqjlT&_nc_oc=AdoN3xW0oGYlNlc1wixm_V71mTUySGboevkWfoCRZQopFyf-pTI1g02MPzKumgJzKdQ&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=m9UhKZjOVE-XVCTZVMkcPg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQSaXOVQcvfq11Sjn8QD06lJZfPYv1b0Yg8V8HeDbrf2DA&oe=6B08BCBB",
+      "alt": "Video by Nooryz on November 20, 2026. May be an image of jacket, coat and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "f25a3884da28be17402073d9ae0192c21c2645ef141246f8fe4e7f61170f9ac0",
+      "collectedDate": "2026-11-22",
+      "method": "Owning agent exported observed public Instagram rendered image through supported CUA pageAssets. Native photo or Reel cover JPEG, not an extracted video frame.",
+      "selectedForWebsite": true
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\nooryz-by-noor\\assets\\03.jpg",
+      "sourcePost": "https://www.instagram.com/nooryzbynoor/reel/Df9hEI2IOz8/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/915973995_18060793841802861_2256298341525658154_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=57J1-t4JE-sQ7kNvwFZHlpk&_nc_oc=AdpX-5OzSycK9Q9mFBENRfWjnE-DG0wFO-hvQSw-PbEvTW5QQkLedkt4qplIhzhnYO4&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=m9UhKZjOVE-XVCTZVMkcPg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQS0r9mhrtO0AXTXZj9mW9aaG-UV8B50tYL99eTNFgd4bA&oe=6B08AC1C",
+      "alt": "Video by Nooryz on November 20, 2026. May be an image of boots, skirt, miniskirt and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "6dd9fa1eba92d0de6f51932084468ccfa86e36e6e75768f541d6498faae9fa58",
+      "collectedDate": "2026-11-22",
+      "method": "Owning agent exported observed public Instagram rendered image through supported CUA pageAssets. Native photo or Reel cover JPEG, not an extracted video frame.",
+      "selectedForWebsite": true
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\nooryz-by-noor\\assets\\04.jpg",
+      "sourcePost": "https://www.instagram.com/nooryzbynoor/reel/Df9hBOLBnWN/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/920162119_18060794711802861_2911177885031028714_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=53EC8aSEAywQ7kNvwE9q8h0&_nc_oc=AdpjFqNkvHyvKapE3wiF4uNsZcgX61oKBBMlJppiHMSmoLyBxc2OMiSXQK7wEuo5W9M&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=m9UhKZjOVE-XVCTZVMkcPg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQQNTnpzazjEjgiChFVC1af9J2iC27_lMgdRwVWZ7Ge5SQ&oe=6B08A803",
+      "alt": "Video by Nooryz on November 20, 2026. May be an image of top and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "11de9c9233fe0450247ab050d029c089288e6e68d883f2fe2a4fc7936516adea",
+      "collectedDate": "2026-11-22",
+      "method": "Owning agent exported observed public Instagram rendered image through supported CUA pageAssets. Native photo or Reel cover JPEG, not an extracted video frame.",
+      "selectedForWebsite": true
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\nooryz-by-noor\\assets\\05.jpg",
+      "sourcePost": "https://www.instagram.com/nooryzbynoor/reel/Df9aKlABeTY/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/919503366_18060738344802861_649557702688670484_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=eBd5UzpPQd4Q7kNvwFxIPRm&_nc_oc=AdqKNOEUEoQsCwvxbX64JURCVvK8fWbCTSs1jnqVlHKtBn5INW3xdpepXdPOiSMXASE&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=m9UhKZjOVE-XVCTZVMkcPg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQRXI71JLh5nVB9MJUPrQGL_zo_avrDp5RtWXWNNVZ5sAA&oe=6B08A631",
+      "alt": "Video by Nooryz on November 20, 2026. May be an image of boots, leather, skirt, miniskirt, dress and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "1d0b07b12db6c0332c98c6119c7fc2caf95b52f32ca8def8d6a55122a491f368",
+      "collectedDate": "2026-11-22",
+      "method": "Owning agent exported observed public Instagram rendered image through supported CUA pageAssets. Native photo or Reel cover JPEG, not an extracted video frame.",
+      "selectedForWebsite": true
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\nooryz-by-noor\\assets\\06.jpg",
+      "sourcePost": "https://www.instagram.com/nooryzbynoor/reel/Df9NCNOh3-R/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/914198729_18060738062802861_7833551957689583530_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=pOu-GIYKjcoQ7kNvwH6lITw&_nc_oc=AdrXj55nw-eI6a3YOWvwZwbovWpW5V6UYjg9ikDt5o3OcljXeay36vGbKVaVvGs12HI&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=m9UhKZjOVE-XVCTZVMkcPg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQQTig2B48p3QlMWZu5LvMYBC8Bi3mTF8J5GZg2Dmjy8xA&oe=6B08A9F0",
+      "alt": "Video by Nooryz on November 20, 2026. May be an image of boots, dress and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "42b49615af8fa20ca371853398924e8e9bda2358cfb5001422f6f45f1b4d20ff",
+      "collectedDate": "2026-11-22",
+      "method": "Owning agent exported observed public Instagram rendered image through supported CUA pageAssets. Native photo or Reel cover JPEG, not an extracted video frame.",
+      "selectedForWebsite": true
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\nooryz-by-noor\\assets\\07.jpg",
+      "sourcePost": "https://www.instagram.com/nooryzbynoor/reel/Df9H5cAB73y/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/916772121_18060738035802861_1424118250655104951_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Hnw0aMMtIZwQ7kNvwFM27wF&_nc_oc=AdroOYL7MYHiD36R_sISzm1JgdUPeMfUWmBd5zWa5WqgOSvPcqFAQjSs-FOhehvYaOE&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=m9UhKZjOVE-XVCTZVMkcPg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQTB8Vq1BLXiWx4GjuLmQV7xb9oZHMMSdEd_0GMav8H3Yg&oe=6B08BEC0",
+      "alt": "Video by Nooryz on November 19, 2026. May be an image of text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "74406e7741444558761939a2b1920c8c821778eddd1292c566f282d7b132e1fe",
+      "collectedDate": "2026-11-22",
+      "method": "Owning agent exported observed public Instagram rendered image through supported CUA pageAssets. Native photo or Reel cover JPEG, not an extracted video frame.",
+      "selectedForWebsite": true
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\nooryz-by-noor\\assets\\08.jpg",
+      "sourcePost": "https://www.instagram.com/nooryzbynoor/reel/Df6wwK_onJQ/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/915525178_18060667229802861_1010033636850538147_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=a4EpiUX4CxMQ7kNvwFgFaWM&_nc_oc=AdqPfUPTmskg3L-tm8S-k5THwLmkBrQRV7-MUO_4TYl3JUFafbqbWHs_bW-ixU0D4_0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=m9UhKZjOVE-XVCTZVMkcPg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQQOQgaIYSWPnwNLjtWZ0fyYYn_JBAYRxae6LAJPgdifZQ&oe=6B08A87F",
+      "alt": "Video by Nooryz on November 19, 2026. May be a selfie of overcoat, fleece, cardigan and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "cb62a4affb64b22e2077130d52067704be581ccc134977b3b578b2f0a0240252",
+      "collectedDate": "2026-11-22",
+      "method": "Owning agent exported observed public Instagram rendered image through supported CUA pageAssets. Native photo or Reel cover JPEG, not an extracted video frame.",
+      "selectedForWebsite": true
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\nooryz-by-noor\\assets\\09.jpg",
+      "sourcePost": "https://www.instagram.com/nooryzbynoor/reel/Df5IHVpoKon/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/917129822_18060606143802861_8178973619925300545_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=i-oyifiKh8MQ7kNvwGD3z9m&_nc_oc=AdrF90S0JAKbBOI4jzXfGz-aB0ev3gLU-rBWJcftAgO6VoYU-IGJV150C1XWEZ9JIYs&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=m9UhKZjOVE-XVCTZVMkcPg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQTEeQLRVfQGfFld1TiPoMr9kY-_OPwkTye-ghV0nIhb9A&oe=6B088B45",
+      "alt": "Video by Nooryz on November 18, 2026. May be an image of sable coat, goosedown coat, jacket, parka, vest and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "d71ad09bfc81a2f887eed98a11eca9381381bd477c14ea8155b1c28d2fc326ad",
+      "collectedDate": "2026-11-22",
+      "method": "Owning agent exported observed public Instagram rendered image through supported CUA pageAssets. Native photo or Reel cover JPEG, not an extracted video frame.",
+      "selectedForWebsite": true
+    }
+  ],
+  "imageNotes": "Nine native public account JPEG stills were exported. Eight are selected. Image01 is strongly tilted and omitted from the website; image08 retains a tilted original camera composition. Do not digitally change garments or claim fibre composition from appearance. All prices remain null, and colours/style names are descriptive editorial labels rather than verified product SKUs.",
+  "designRecommendation": "Use a crisp fashion editorial layout with dark ink typography, white space and berry accents drawn from image07. Portrait imagery needs generous framing. A look browser grouped into shirts, dresses, coordinated looks and outer layers fits the public assortment. Keep WhatsApp enquiry readily accessible without claiming a live checkout.",
+  "commercialFit": "An image-led searchable collection with saved favourites and item-specific enquiries can help customers browse beyond the Instagram feed. Current sizes, stock and prices should be confirmed by the boutique; do not invent checkout, payment or fulfilment capability."
+}

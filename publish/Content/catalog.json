@@ -1,0 +1,165 @@
+{
+  "brand": "Nooryz by Noor",
+  "contactMode": "whatsapp",
+  "phone": "9613568456",
+  "displayPhone": "+961 3 568 456",
+  "instagram": "https://www.instagram.com/nooryzbynoor/",
+  "hours": "Confirm current visiting hours with the boutique",
+  "hero": "/images/photo-6aea412621d9ce22.jpg",
+  "story": "/images/photo-d75641d17c75c61c.jpg",
+  "galleryImages": [
+    "/images/photo-6aea412621d9ce22.jpg",
+    "/images/photo-d75641d17c75c61c.jpg",
+    "/images/photo-1f4080601d80c614.jpg",
+    "/images/photo-c495dffe8a7ed4ae.jpg",
+    "/images/photo-6efe51e00e27d0e7.jpg",
+    "/images/photo-7bb67502f12fac41.jpg",
+    "/images/photo-81933a82b456045c.jpg",
+    "/images/photo-bb42bb2af6bd45a9.jpg"
+  ],
+  "products": [
+    {
+      "id": "berry-button-shirt",
+      "name": "Berry Button Shirt",
+      "collection": "Shirts",
+      "audience": "The edit",
+      "family": "",
+      "description": "A vivid berry long-sleeved collared shirt styled with wide-leg denim. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-6aea412621d9ce22.jpg"
+      ],
+      "source": "https://www.instagram.com/nooryzbynoor/reel/Df9H5cAB73y/"
+    },
+    {
+      "id": "burgundy-layered-look",
+      "name": "Burgundy Layered Look",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A burgundy collared outer layer styled with checked bottoms in the boutique mirror. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-d75641d17c75c61c.jpg"
+      ],
+      "source": "https://www.instagram.com/nooryzbynoor/reel/Df9qqvpIYOm/"
+    },
+    {
+      "id": "charcoal-check-look",
+      "name": "Charcoal Check Look",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A dark checked button-front look with a defined waist and short skirt silhouette. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-1f4080601d80c614.jpg"
+      ],
+      "source": "https://www.instagram.com/nooryzbynoor/reel/Df9hEI2IOz8/"
+    },
+    {
+      "id": "white-draped-blouse",
+      "name": "White Draped Blouse",
+      "collection": "Shirts",
+      "audience": "The edit",
+      "family": "",
+      "description": "A white long-sleeved blouse with a relaxed draped neckline and flowing silhouette. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-c495dffe8a7ed4ae.jpg"
+      ],
+      "source": "https://www.instagram.com/nooryzbynoor/reel/Df9hBOLBnWN/"
+    },
+    {
+      "id": "black-evening-look",
+      "name": "Black Evening Look",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A black V-neck top styled with a short, lightly flared skirt and boots. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-6efe51e00e27d0e7.jpg"
+      ],
+      "source": "https://www.instagram.com/nooryzbynoor/reel/Df9aKlABeTY/"
+    },
+    {
+      "id": "plum-pleated-mini",
+      "name": "Plum Pleated Mini",
+      "collection": "Dresses",
+      "audience": "The edit",
+      "family": "",
+      "description": "A plum short dress with long sleeves, a fitted waist and pleated skirt. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-7bb67502f12fac41.jpg"
+      ],
+      "source": "https://www.instagram.com/nooryzbynoor/reel/Df9NCNOh3-R/"
+    },
+    {
+      "id": "beige-short-layer",
+      "name": "Beige Short Layer",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A light beige short button-front layer photographed in the boutique mirror. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-81933a82b456045c.jpg"
+      ],
+      "source": "https://www.instagram.com/nooryzbynoor/reel/Df6wwK_onJQ/"
+    },
+    {
+      "id": "cream-textured-vest",
+      "name": "Cream Textured Vest",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A long cream sleeveless layer with a fluffy textured surface, styled over denim. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-bb42bb2af6bd45a9.jpg"
+      ],
+      "source": "https://www.instagram.com/nooryzbynoor/reel/Df5IHVpoKon/"
+    }
+  ],
+  "services": [],
+  "branches": [
+    {
+      "name": "Samaya, Kaslik, Lebanon",
+      "mapUrl": ""
+    }
+  ]
+}
